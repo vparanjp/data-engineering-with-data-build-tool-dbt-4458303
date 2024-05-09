@@ -8,4 +8,4 @@ SELECT
     vehicle_color,
     vehicle_year
 FROM
-    {{ref('silver_parking_violations')}}
+    {{ref('silver_parking_violations')}} 
